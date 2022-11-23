@@ -2,4 +2,6 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts 
 Project ID: PNT2022TMID13326 
 Team Members : Ritik Magotra - 2019cs51, 
-               Keerthivasan R -2019cs104
+               Keerthivasan R -2019cs104,
+               Ajithkumar
+               Mukeshkumar
